@@ -1,5 +1,5 @@
 name    'guilhermef-nginx'
-version '0.0.4'
+version '0.0.5'
 source 'http://github.com/guilhermef/puppetlabs-nginx'
 author 'Guilherme Souza'
 license 'Apache License Version 2.0'
